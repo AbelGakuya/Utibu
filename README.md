@@ -39,6 +39,12 @@ To run the Utibu Health App locally, follow these steps:
 
 -View your order history and statements.
 
+## **API Repository**
+
+The API for Utibu Health is hosted in a separate repository. You can find the code and documentation here: 
+https://github.com/AbelGakuya/Utibu-Health-API/tree/master
+
+
 ## **Contributing**
 Contributions are welcome! If you'd like to contribute to the development of the Utibu Health App, please follow these steps:
 
