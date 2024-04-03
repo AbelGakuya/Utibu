@@ -52,7 +52,9 @@ Contributions are welcome! If you'd like to contribute to the development of the
 
 5.Create a new Pull Request.
 
-##**License**
+
+## **License**
+
 This project is licensed under the MIT License.
 
 
