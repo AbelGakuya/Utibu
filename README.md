@@ -24,6 +24,7 @@ To run the Utibu Health App locally, follow these steps:
 -Launch the app and navigate to the registration screen.
 
 -Fill in the required details and click on the "Register" button.
+
 **2.Place Orders**:
 -After registration, log in using your credentials.
 
