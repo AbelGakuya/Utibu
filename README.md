@@ -13,7 +13,7 @@ Welcome to the Utibu Health App repository! This Android application allows user
 To run the Utibu Health App locally, follow these steps:
 
 1.Clone this repository to your local machine.
-    git clone https://github.com/your-username/utibu-health-app.git
+    [git clone https://github.com/your-username/utibu-health-app.git](https://github.com/AbelGakuya/Utibu.git)
     
 2.Open the project in Android Studio.
 
